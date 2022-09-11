@@ -1,1 +1,2 @@
-!echo 'project2'
+!/bin/bash
+echo 'project2'
